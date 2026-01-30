@@ -16,5 +16,5 @@ Calculadora básica desenvolvida utilizando apenas HTML, CSS e JavaScript.
 Projeto desenvolvido para praticar entrada de dados, lógica básica e manipulação do DOM
 com JavaScript.
 
-## 🔗 Demo
-https://henriqueweb08-rgb.github.io/calculadora-javascript/
+## 🔗 Demo Online:https://henriqueweb08-rgb.github.io/calculadora-javascript/
+
