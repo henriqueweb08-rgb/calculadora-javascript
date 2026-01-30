@@ -17,4 +17,4 @@ Projeto desenvolvido para praticar entrada de dados, lógica básica e manipula�
 com JavaScript.
 
 ## 🔗 Demo
-(Adicionar link do GitHub Pages)
+https://henriqueweb08-rgb.github.io/calculadora-javascript/
