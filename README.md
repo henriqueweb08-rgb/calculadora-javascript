@@ -6,7 +6,7 @@ Calculadora básica desenvolvida utilizando apenas HTML, CSS e JavaScript.
 - HTML5
 - CSS3
 - JavaScript
-
+ 
 ## 🚀 Funcionalidades
 - Soma de dois números
 - Subtração de dois números
